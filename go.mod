@@ -1,3 +1,3 @@
-module github.com/korb1n/test-project
+module  github.com/dengsir173/test-import
 
 go 1.18
